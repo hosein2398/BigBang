@@ -1,0 +1,18 @@
+{
+    "title": "Big Bang",
+    "name": "big bang",
+    "description": "Real crazy Brackets theme for crazy coders",
+    "homepage": "https://github.com/hosein2398/BigBang",
+    "version": "1.0.0",
+    "author": "Hosein2398 (https://github.com/hosein2398)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.1.0"
+    },
+    "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "bigbang", "harsh", "neon", "javascript", "sass"]
+}
