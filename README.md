@@ -20,12 +20,12 @@ Installation
 
 ## Screenshot
 1:
-![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
+![alt text](https://raw.githubusercontent.com/hosein2398/BigBang/master/screenshots/1.JPG)
 <br>
 2:
-![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
+![alt text](https://raw.githubusercontent.com/hosein2398/BigBang/master/screenshots/2.PNG)
 <br>
 3:
-![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
+![alt text](https://raw.githubusercontent.com/hosein2398/BigBang/master/screenshots/3.PNG)
 
 
