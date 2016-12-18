@@ -19,13 +19,13 @@ Installation
 5. Click "Install"
 
 ## Screenshot
-1
+1:
 ![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
 <br>
-2
+2:
 ![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
 <br>
-3
+3:
 ![alt text](https://github.com/hosein2398/Crimson/blob/master/screenshot/Screen.JPG)
 
 
