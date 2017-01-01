@@ -15,7 +15,7 @@ Installation
 1. Open Brackets
 2. Open the Extension Manager
 3. Switch to "Themes" tab
-4. Search for "Monokai"
+4. Search for "BigBang"
 5. Click "Install"
 
 ## Screenshot
